@@ -11,10 +11,7 @@ Este é um projeto simples de Jogo da Velha (Tic-Tac-Toe) implementado em Flutte
 
 ## Como Jogar:
 
-1. Clone o repositório: `git clone [URL do repositório]`
-2. Navegue até o diretório do projeto: `cd [nome do projeto]`
-3. Instale as dependências: `flutter pub get`
-4. Execute o aplicativo: `flutter run`
+- https://lucasrocha-cmd.github.io/Tic-Tac-Toe-App/
 
 ## Estrutura do Projeto:
 
